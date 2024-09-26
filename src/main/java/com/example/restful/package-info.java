@@ -1,1 +1,1 @@
-package java.com.example.restful;
+package com.example.restful;

@@ -8,6 +8,7 @@ class ResTfulApplicationTests {
 
 	@Test
 	void contextLoads() {
+
 	}
 
 }
