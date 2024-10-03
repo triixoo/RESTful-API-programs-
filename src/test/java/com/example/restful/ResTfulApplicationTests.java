@@ -5,10 +5,8 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class ResTfulApplicationTests {
-
 	@Test
 	void contextLoads() {
-
 	}
 
 }
